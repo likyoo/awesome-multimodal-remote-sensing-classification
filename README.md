@@ -1,1 +1,1 @@
-# awesome-multimodal-remote-sensing
+# Awesome Multi-modal Remote Sensing Classification
