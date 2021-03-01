@@ -4,7 +4,7 @@
 
 ## 1. Dataset
 
-- [LCZ Data (Multi-spectral and SAR data)](https://github.com/danfenghong/IEEE_TGRS_MDL-RS)
+- [LCZ Data (Multispectral and SAR data)](https://github.com/danfenghong/IEEE_TGRS_MDL-RS)
 
   The LCZ data sets are collected from Sentinel-2 and Sentinel-1 satellites, where the former acquires the MS data with ten spectral bands and the latter is able to generate the dual-polarimetric SAR data organized as a commonly used PolSAR covariance matrix (four components). Paper: [Hong et al.2020](https://ieeexplore.ieee.org/document/9174822)
 
@@ -28,4 +28,4 @@
 
 [FusAtNet: Dual Attention based SpectroSpatial Multimodal Fusion Network for Hyperspectral and LiDAR Classification](https://openaccess.thecvf.com/content_CVPRW_2020/html/w6/Mohla_FusAtNet_Dual_Attention_Based_SpectroSpatial_Multimodal_Fusion_Network_for_Hyperspectral_CVPRW_2020_paper.html), CVPRW 2020 [[code]](https://github.com/ShivamP1993/FusAtNet)
 
-[Multisource Remote Sensing Data Classiﬁcation Based on Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/8068943), IEEE TGRS 2018
+[Multisource Remote Sensing Data Classiﬁcation Based on Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/8068943), IEEE TGRS 2018 [[code]](https://github.com/Hsuxu/Two-branch-CNN-Multisource-RS-classification)
