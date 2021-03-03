@@ -16,7 +16,7 @@
 
   ◗ Hyperspectral data at a 1-m GSD cover a 380–1,050- nm spectral range with 48 contiguous bands. 
 
-  ◗ Very-high-resolution red-green-blue imagery presents at a 5-cm GSD. All data are geo-referenced and cover a geographic area of more than 4 $km^2$.  Paper: [Saux et al. 2018](https://ieeexplore.ieee.org/document/8328995)
+  ◗ Very-high-resolution red-green-blue imagery presents at a 5-cm GSD. All data are geo-referenced and cover a geographic area of more than 4 km^2​.  Paper: [Saux et al. 2018](https://ieeexplore.ieee.org/document/8328995)
 
 - [MUUFL Gulfport (Hyperspectral and LiDAR Data)](https://github.com/GatorSense/MUUFLGulfport/)
 
