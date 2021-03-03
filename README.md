@@ -1,6 +1,6 @@
 # Awesome Multi-modal/Multi-source/Multi-sensor Remote Sensing Classification
 
-⚡ **Especially focus on hyperspectral and LiDAR images.**
+⚡ **Especially focus on Hyperspectral and LiDAR images.**
 
 
 
@@ -9,6 +9,14 @@
 - [LCZ Data (Multispectral and SAR data)](https://github.com/danfenghong/IEEE_TGRS_MDL-RS)
 
   The LCZ data sets are collected from Sentinel-2 and Sentinel-1 satellites, where the former acquires the MS data with ten spectral bands and the latter is able to generate the dual-polarimetric SAR data organized as a commonly used PolSAR covariance matrix (four components). Paper: [Hong et al.2020](https://ieeexplore.ieee.org/document/9174822)
+
+- [DFC2018 Dataset (Multispectral LiDAR and Hyperspectral Data)](https://hyperspectral.ee.uh.edu/?page_id=1075)
+
+  ◗ Multispectral light detecting and ranging (LiDAR) data have three simultaneous different optical wavelengths. For the sake of accessibility to various users, the data are available as point cloud data and digital surface models (DSMs) at a 0.5-m ground sampling distance (GSD). 
+
+  ◗ Hyperspectral data at a 1-m GSD cover a 380–1,050- nm spectral range with 48 contiguous bands. 
+
+  ◗ Very-high-resolution red-green-blue imagery presents at a 5-cm GSD. All data are geo-referenced and cover a geographic area of more than 4 $km^2$.  Paper: [Saux et al. 2018](https://ieeexplore.ieee.org/document/8328995)
 
 - [MUUFL Gulfport (Hyperspectral and LiDAR Data)](https://github.com/GatorSense/MUUFLGulfport/)
 
