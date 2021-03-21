@@ -32,9 +32,11 @@
 
 #### 2.1 Deep Learning
 
+- ~~[Multisource Remote Sensing Data Classification With Graph Fusion Network](https://ieeexplore.ieee.org/document/9325097), IEEE TGRS 2021~~
 - [More Diverse Means Better: Multimodal Deep Learning Meets Remote-Sensing Imagery Classiﬁcation](https://ieeexplore.ieee.org/document/9174822), IEEE TGRS 2020 [[code]](https://github.com/danfenghong/IEEE_TGRS_MDL-RS)
+- [Learning-Shared Cross-Modality Representation Using Multispectral-LiDAR and Hyperspectral Data](https://ieeexplore.ieee.org/abstract/document/8976086), IEEE GRSL 2020
 - [Deep Encoder-Decoder Networks for Classification of Hyperspectral and LiDAR Data](https://ieeexplore.ieee.org/abstract/document/9179756), IEEE GRSL 2020 [[code]](https://github.com/danfenghong/IEEE_GRSL_EndNet)
-- [Classification of Hyperspectral and LiDAR Data Using Coupled CNNs](https://ieeexplore.ieee.org/abstract/document/8985546),  IEEE TGRS 2020 [[code]](https://github.com/RenlongHang/Coupled-CNNs)
+- ~~[Classification of Hyperspectral and LiDAR Data Using Coupled CNNs](https://ieeexplore.ieee.org/abstract/document/8985546),  IEEE TGRS 2020 [[code]](https://github.com/RenlongHang/Coupled-CNNs)~~
 - [FusAtNet: Dual Attention based SpectroSpatial Multimodal Fusion Network for Hyperspectral and LiDAR Classification](https://openaccess.thecvf.com/content_CVPRW_2020/html/w6/Mohla_FusAtNet_Dual_Attention_Based_SpectroSpatial_Multimodal_Fusion_Network_for_Hyperspectral_CVPRW_2020_paper.html), CVPRW 2020 [[code]](https://github.com/ShivamP1993/FusAtNet)
 - [Feature Extraction for Classification of Hyperspectral and LiDAR Data Using Patch-to-Patch CNN](https://ieeexplore.ieee.org/abstract/document/8467496), IEEE TCYB 2018
 - [Multisource Remote Sensing Data Classiﬁcation Based on Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/8068943), IEEE TGRS 2018 [[code]](https://github.com/Hsuxu/Two-branch-CNN-Multisource-RS-classification)
