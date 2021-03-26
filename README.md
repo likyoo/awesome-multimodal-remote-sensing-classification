@@ -30,10 +30,17 @@
 
 ## 2. Paper
 
-#### 2.1 Deep Learning
+#### 2.1 Survey Papers
+
+- [Multisource and Multitemporal Data Fusion in Remote Sensing: A Comprehensive Review of the State of the Art](https://ieeexplore.ieee.org/abstract/document/8672156), IEEE GRSM 2019
+
+
+
+#### 2.2 Deep Learning
 
 - ~~[Multisource Remote Sensing Data Classification With Graph Fusion Network](https://ieeexplore.ieee.org/document/9325097), IEEE TGRS 2021~~
 - [More Diverse Means Better: Multimodal Deep Learning Meets Remote-Sensing Imagery Classiﬁcation](https://ieeexplore.ieee.org/document/9174822), IEEE TGRS 2020 [[code]](https://github.com/danfenghong/IEEE_TGRS_MDL-RS)
+- [Joint Classification of Hyperspectral and LiDAR Data Using Hierarchical Random Walk and Deep CNN Architecture](https://ieeexplore.ieee.org/abstract/document/9057518), IEEE TGRS 2020 [[code]](https://github.com/xudongzhao461/HRWN)
 - [Learning-Shared Cross-Modality Representation Using Multispectral-LiDAR and Hyperspectral Data](https://ieeexplore.ieee.org/abstract/document/8976086), IEEE GRSL 2020
 - [Deep Encoder-Decoder Networks for Classification of Hyperspectral and LiDAR Data](https://ieeexplore.ieee.org/abstract/document/9179756), IEEE GRSL 2020 [[code]](https://github.com/danfenghong/IEEE_GRSL_EndNet)
 - ~~[Classification of Hyperspectral and LiDAR Data Using Coupled CNNs](https://ieeexplore.ieee.org/abstract/document/8985546),  IEEE TGRS 2020 [[code]](https://github.com/RenlongHang/Coupled-CNNs)~~
@@ -44,7 +51,7 @@
 
 
 
-#### 2.2 Traditional Method
+#### 2.3 Traditional Method
 
 - [Combining feature fusion and decision fusion for classification of hyperspectral and LiDAR data](https://ieeexplore.ieee.org/abstract/document/6946657), IEEE IGARSS 2014
 
