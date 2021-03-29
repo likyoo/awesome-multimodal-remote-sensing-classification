@@ -38,7 +38,9 @@
 
 #### 2.2 Deep Learning
 
+- [Fractional Gabor Convolutional Network for Multisource Remote Sensing Data Classification](https://ieeexplore.ieee.org/document/9383794), IEEE TGRS 2021 [[code]](https://github.com/xudongzhao461/FGCN)
 - [Multisource Remote Sensing Data Classification With Graph Fusion Network](https://ieeexplore.ieee.org/document/9325097), IEEE TGRS 2021
+- [Feature Correlation Analysis of Two-Branch Convolutional Networks for Multi-Source Image Classification](https://ieeexplore.ieee.org/abstract/document/9324476), IEEE IGARSS 2020
 - [More Diverse Means Better: Multimodal Deep Learning Meets Remote-Sensing Imagery Classiﬁcation](https://ieeexplore.ieee.org/document/9174822), IEEE TGRS 2020 [[code]](https://github.com/danfenghong/IEEE_TGRS_MDL-RS)
 - [Joint Classification of Hyperspectral and LiDAR Data Using Hierarchical Random Walk and Deep CNN Architecture](https://ieeexplore.ieee.org/abstract/document/9057518), IEEE TGRS 2020 [[code]](https://github.com/xudongzhao461/HRWN)
 - [Learning-Shared Cross-Modality Representation Using Multispectral-LiDAR and Hyperspectral Data](https://ieeexplore.ieee.org/abstract/document/8976086), IEEE GRSL 2020
