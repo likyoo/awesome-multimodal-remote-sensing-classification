@@ -61,3 +61,7 @@
 
 
 
+## 3. Related Repositories
+
+- [pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml)
+- [Eurus-Holmes/Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)
