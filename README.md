@@ -38,6 +38,7 @@
 
 #### 2.2 Deep Learning
 
+- Multimodal Remote Sensing Benchmark Datasets for Land Cover Classification with A Shared and Specific Feature Learning Model, ISPRS 2021 [[code]](https://github.com/danfenghong/ISPRS_S2FL)
 - [Fractional Gabor Convolutional Network for Multisource Remote Sensing Data Classification](https://ieeexplore.ieee.org/document/9383794), IEEE TGRS 2021 [[code]](https://github.com/xudongzhao461/FGCN)
 - [Multisource Remote Sensing Data Classification With Graph Fusion Network](https://ieeexplore.ieee.org/document/9325097), IEEE TGRS 2021
 - [Deep Residual Network-based Fusion Framework for Hyperspectral and LiDAR Data](https://ieeexplore.ieee.org/abstract/document/9336235), IEEE JSTARS 2021 [[code]](https://github.com/gechiru/RNPRF-RNDFF-RNPMF)
