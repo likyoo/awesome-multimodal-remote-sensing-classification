@@ -43,6 +43,8 @@
 - [Multisource Remote Sensing Data Classification With Graph Fusion Network](https://ieeexplore.ieee.org/document/9325097), IEEE TGRS 2021
 - [Deep Residual Network-based Fusion Framework for Hyperspectral and LiDAR Data](https://ieeexplore.ieee.org/abstract/document/9336235), IEEE JSTARS 2021 [[code]](https://github.com/gechiru/RNPRF-RNDFF-RNPMF)
 - [Feature Correlation Analysis of Two-Branch Convolutional Networks for Multi-Source Image Classification](https://ieeexplore.ieee.org/abstract/document/9324476), IEEE IGARSS 2020
+- [A Multi-Sensor Fusion Framework Based on Coupled Residual Convolutional Neural Networks](https://www.mdpi.com/2072-4292/12/12/2067), Remote Sensing 2020 [[code]](https://github.com/bobleegogogo/CResNetAUX)
+- [Multilevel Structure Extraction-Based Multi-Sensor Data Fusion](https://www.mdpi.com/2072-4292/12/24/4034), Remote Sensing 2020 [[code]](https://github.com/PuhongDuan/Multilevel-Structure-Extraction-Based-Multi-Sensor-Data-Fusion)
 - [SSR-NET: Spatial–Spectral Reconstruction Network for Hyperspectral and Multispectral Image Fusion](https://ieeexplore.ieee.org/abstract/document/9186332), IEEE TGRS 2020 [[code]](https://github.com/hw2hwei/SSRNET)
 - [More Diverse Means Better: Multimodal Deep Learning Meets Remote-Sensing Imagery Classiﬁcation](https://ieeexplore.ieee.org/document/9174822), IEEE TGRS 2020 [[code]](https://github.com/danfenghong/IEEE_TGRS_MDL-RS)
 - [Joint Classification of Hyperspectral and LiDAR Data Using Hierarchical Random Walk and Deep CNN Architecture](https://ieeexplore.ieee.org/abstract/document/9057518), IEEE TGRS 2020 [[code]](https://github.com/xudongzhao461/HRWN)
